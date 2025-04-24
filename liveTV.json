@@ -1,0 +1,251 @@
+{
+    "categories": [
+        {
+            "id": "FR",
+            "name": "Chaines Françaises \uD83C\uDDEB\uD83C\uDDF7"
+        },
+        {
+            "id": "MA",
+            "name": "Chaines Marocaines \uD83C\uDDF2\uD83C\uDDE6"
+        },
+        {
+            "id": "DZ",
+            "name": "Chaines Algériennes \uD83C\uDDE9\uD83C\uDDFF"
+        }
+    ],
+    "channels": [
+        {
+            "name": "TF1",
+            "logo": "https://gogoflix.autos/templates/Kinobox/images/studios/18.webp",
+            "links": [
+            "https://www.freeshot.live/live-tv/tf1/460",
+			"https://www.stream4free.tv/tf1-live-streaming",
+            "https://azrotv.com/m3u8/fr/?id=tf1",
+            "https://www.livehdtv.com/ch123/1/tf1",
+            "https://www.livehdtv.com/ch123/2/tf1",
+            "https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/87.m3u8",
+			"https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8",
+			"https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8"
+            ],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=TF1.fr",
+            "categories": ["FR"]
+        },
+                {
+            "name": "France 2",
+            "logo": "https://www.france.tv/image/carre/265/265/c/7/t/5df189a3-php6kjt7c_png.jpg",
+            "links": ["https://www.stream4free.tv/france-2-direct"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=France2.fr",
+            "categories": ["FR"]
+        },
+                {
+            "name": "France 3",
+            "logo": "https://www.france.tv/image/carre/265/265/i/v/v/050e719f-phpjxpvvi_png.jpg",
+            "links": ["https://www.stream4free.tv/france-3-live"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=France3.fr",
+            "categories": ["FR"]
+        },
+        {
+            "name": "Canal+",
+            "logo": "https://www.programme-tv.net/imgre/fit/~2~channel~897223a57e2e8ae5.png/500x500/quality/80/canalplus.png",
+            "links": [
+                "https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/106.m3u8"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=CanalPlus.fr",
+            "categories": ["FR"]
+        },
+                {
+            "name": "France 5",
+            "logo": "https://www.france.tv/image/carre/265/265/3/v/x/9b18289c-phptcexv3_png.jpg",
+            "links": ["https://www.stream4free.tv/france-5-live"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=France5.fr",
+            "categories": ["FR"]
+        },
+        {
+            "name": "M6",
+            "logo": "https://gogoflix.autos/templates/Kinobox/images/chaine/M6.png",
+            "links": [
+                "https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/102.m3u8",
+				"https://www.stream4free.tv/m6-live-streaming"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=M6.fr",
+            "categories": ["FR"]
+        },
+        {
+            "name": "Arte",
+            "logo": "https://www.programme-tv.net/imgre/fit/~2~channel~d6bb7624abff43ac.png/500x500/quality/80/arte.png",
+            "links": [
+                "https://www.livehdtv.com/arte-french/1/artefr",
+				"https://www.stream4free.tv/arte"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=Arte.fr",
+            "categories": ["FR"]
+        },
+        {
+            "name": "C8",
+            "logo": "https://gogoflix.autos/templates/Kinobox/images/chaine/c8.png",
+            "links": [
+                "https://www.dailymotion.com/embed/video/x5gv5rr"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=C8.fr",
+            "categories": ["FR"]
+        },
+        {
+            "name": "W9",
+            "logo": "https://gogoflix.autos/templates/Kinobox/images/chaine/w9.jpg",
+            "links": [
+                "https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/79.m3u8"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=W9.fr",
+            "categories": ["FR"]
+        },
+        {
+            "name": "TMC",
+            "logo": "https://gogoflix.autos/templates/Kinobox/images/chaine/tmc.jpg",
+            "links": [
+                "https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/78.m3u8"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=TMC.fr",
+            "categories": ["FR"]
+        },
+        {
+            "name": "TFX",
+            "logo": "https://gogoflix.autos/templates/Kinobox/images/chaine/tfx.png",
+            "links": [
+                "https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/77.m3u8"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=NT1.fr",
+            "categories": ["FR"]
+        },
+        {
+            "name": "NRJ12",
+            "logo": "https://www.programme-tv.net/imgre/fit/~2~channel~db99a51a009181eb.png/500x500/quality/80/nrj-12.png",
+            "links": [
+                "https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=NRJ12.fr",
+            "categories": ["FR"]
+        },
+        {
+            "name": "LCP",
+            "logo": "https://www.programme-tv.net/imgre/fit/~2~channel~080eb27517dd16c6.png/500x500/quality/80/la-chaine-parlementaire.png",
+            "links": [
+                "https://www.dailymotion.com/embed/video/xkxbzc"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=LaChaineParlementaire.fr",
+            "categories": ["FR"]
+        },
+        {
+            "name": "France 4",
+            "logo": "https://www.france.tv/image/carre/265/265/g/7/f/f4b7de92-php2isf7g_png.jpg",
+            "links": [
+                "https://www.stream4free.tv/france-4"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=France4.fr",
+            "categories": ["FR"]
+        },
+        {
+            "name": "BFM TV",
+            "logo": "https://www.programme-tv.net/imgre/fit/~2~channel~9048e02338fb1134.png/500x500/quality/80/bfmtv.png",
+            "links": [
+                "https://mit2-cdn-edge-live06.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=054akapminjaseksmkrg/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=BFMTV.fr",
+            "categories": ["FR"]
+        },
+        {
+            "name": "CNews",
+            "logo": "https://www.programme-tv.net/imgre/fit/~2~channel~952ec4ae63b20c1b.png/500x500/quality/80/cnews.png",
+            "links": [
+                "https://www.dailymotion.com/embed/video/x3b68jn"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=CNews.fr",
+            "categories": ["FR"]
+        },
+        {
+            "name": "CStar",
+            "logo": "https://www.programme-tv.net/imgre/fit/~2~channel~13fb1402e6497814.png/500x500/quality/80/cstar.png",
+            "links": [
+                "https://www.dailymotion.com/embed/video/x5gv5v0"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=CStar.fr",
+            "categories": ["FR"]
+        },
+        {
+            "name": "Gulli",
+            "logo": "https://www.programme-tv.net/imgre/fit/~2~channel~059a8175b83117fd.png/500x500/quality/80/gulli.png",
+            "links": [
+                "https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups[]=m6web-live-gulli_ext&scheme=https"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=Gulli.fr",
+            "categories": ["FR"]
+        },
+        {
+            "name": "TF1 Séries Films",
+            "logo": "https://www.programme-tv.net/imgre/fit/~2~channel~3104ccb3015a8669.png/500x500/quality/80/tf1-series-films.png",
+            "links": [
+            "https://www.stream4free.tv/tf1-series-films"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=TF1SeriesFilms.fr",
+            "categories": ["FR"]
+        },
+        {
+            "name": "L'Équipe",
+            "logo": "https://www.programme-tv.net/imgre/fit/~2~channel~060edf53b072af43.png/500x500/quality/80/l-equipe.png",
+            "links": [
+                "https://www.stream4free.tv/l-equipe-21"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=LEquipe21.fr",
+            "categories": ["FR"]
+        },
+        {
+            "name": "6ter",
+            "logo": "https://www.programme-tv.net/imgre/fit/~2~channel~204cc55775f05765.png/500x500/quality/80/6ter.png",
+            "links": ["https://www.stream4free.tv/6ter-france",
+                "https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/29c7a579af3348b48230f76cd75699a5/dash_short_cenc10_6ter_hd_index.mpd",
+				"https://www.livehdtv.com/6ter/1/",
+				"https://www.livehdtv.com/6ter/2/"
+				],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=6ter.fr",
+            "categories": ["FR"]
+        },{
+            "name": "Alaoula",
+            "logo": "https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-03/alaoula-16x9.jpeg?itok=Kym2z7M1",
+            "links": ["https://www.ipslow.com/hls/snrt_elahmad_1.php/https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8[origin=https://www.elahmad.com]",
+			"https://cdn-globecast.akamaized.net/live/eds/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=5-mp4a_130400_qad=2.m3u8",
+            "https://youtu.be/RVycDPf6iRI",
+            "https://browncrossing.net/embed/v3mwcmr",
+            "https://top1.iosplayer.ru/tshttp/top1/aflam11/mono.m3u8?token=none"],
+            "description": "",
+            "categories": ["MA"]
+        },
+        {
+            "name": "2M Monde",
+            "logo": "https://mena-img-cdn-lb.aws.playco.com/474w/ev-livechannels-avod/AVOD2MMONDEY2023M/AVOD2MMONDEY2023M-474x677-PST.jpg",
+            "links": ["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=10-mp4a_130400_qad=1.m3u8",
+            "https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-PreRoll-Live-DASH/live/eds/2M_Monde/DASH/2M_Monde.mpd"],
+            "description": "",
+            "categories": ["MA"]
+        },
+        {
+            "name": "Arryadia",
+            "logo": "https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/arriyadia-16x9.jpeg?itok=ei_LOKyM",
+            "links": ["https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/arriadia-avc1_1500000=3-mp4a_130400_qad=4.m3u8"],
+            "description": "",
+            "categories": ["MA"]
+        },
+        {
+            "name": "ENTV 1",
+            "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg/594px-Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg.png",
+            "links": ["https://freechanelsonly.xyz/live/u7JewhWwuWkS/BRBRyWDNUEr6/7.m3u8[referer=https://www.offlinefreechanelsonly.xyz/2021/11/algerie.html]",
+            "https://www.elahmad.com/tv/algeria_live.php?id=algerie"],
+            "description": "",
+            "categories": ["DZ"]
+        },
+        {
+            "name": "Echourouk",
+            "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Echorouk_TV.png/800px-Echorouk_TV.png",
+            "links": ["https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/chunks.m3u8"],
+            "description": "",
+            "categories": ["DZ"]
+        },
+        {
+            "name": "Ennahar",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqeHm5KeTqYY2vMk_Cp3ZuqYIuWZhufBfX_w&s",
+            "links": ["https://ennahar-live.dzsecurity.net/fullsrc/EnnaharTV/chunks.m3u8"],
+            "description": "",
+            "categories": ["DZ"]
+        },
+        {
+            "name": "NAT GEO",
+            "logo": "https://www.stream4free.tv/images/avatars/nationalgeo.jpg",
+            "links": ["https://www.stream4free.tv/national-geographic"],
+            "epg": "https://xmltvfr.fr/xmltvreader.php?channel=NationalGeographic.fr",
+            "categories": ["FR"]
+                                                                                }
+
+    ]
+}
